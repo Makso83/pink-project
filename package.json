@@ -1,0 +1,22 @@
+{
+  "name": "pink-project",
+  "version": "1.0.0",
+  "description": "landing-page",
+  "main": "index.html",
+  "author": "Maxim Kolotushkin <makkolot@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.26.10",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-file-include": "^2.2.2",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-watch": "^5.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.5.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  }
+}
